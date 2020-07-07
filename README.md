@@ -6,10 +6,8 @@
 
 1. Added Timer support.
 2. Added control to "Enable" and "Disable" the quiz on the Admin panel
-3. Added control to navigate among all the questions of quiz (during the quiz) and finish the quiz whenever the user wants.
-4. Added control so that user can start the quiz at any time and continue the quiz even if some error or session timeout occurs.
-5. Added control to store the answers to question and show a detailed analysis of the quiz results.
-6. Improved GUI of the quiz panel.
+3. Added control so that user can start the quiz at any time and continue the quiz even if some error or session timeout occurs.
+4. Improved GUI of the quiz panel.
 
 
 #How to Use
